@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I love developing mobile apps
 - 💬 Ask me about anything, I am happy to help
-- ⚡ Fun fact: Anything is possible if we believe enough.
+- ⚡ Fun fact: Anything is possible if we believe enough
 ## Connect with me  
 <a href="https://github.com/gulsunciftci" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
