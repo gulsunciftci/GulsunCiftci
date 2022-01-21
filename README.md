@@ -1,4 +1,4 @@
-### Hi there, I am Gulsun 👋 
+### Hi there, I'm Gulsun 👋 
 
 <!--
 **gulsunciftci/GulsunCiftci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
