@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: Anything is possible if we believe enough
 ## Connect with me  
-<a href="https://github.com/gulsunciftci" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-<a href="https://linkedin.com/in/gulsunciftci" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://www.instagram.com/ce_women/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsunciftci/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gulsunciftci)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ce_women)
+[![Mail Badge](https://img.shields.io/badge/@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gulsunnciftci@gmail.com)](mailto:gulsunnciftci@gmail.com)
+
