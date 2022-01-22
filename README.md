@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I love developing mobile apps
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: Anything is possible if we believe enough
-## Connect with me  
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsunciftci/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gulsunciftci)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ce_women)
-[![Mail Badge](https://img.shields.io/badge/@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gulsunnciftci@gmail.com)](mailto:gulsunnciftci@gmail.com)
+
 ### Some stats stuff
 <p align="center">
 	<a href="https://github.com/gulsunciftci">
@@ -29,3 +25,9 @@ Here are some ideas to get you started:
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
 	</a>
 </p>
+
+## Connect with me  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsunciftci/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gulsunciftci)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ce_women)
+[![Mail Badge](https://img.shields.io/badge/@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gulsunnciftci@gmail.com)](mailto:gulsunnciftci@gmail.com)
