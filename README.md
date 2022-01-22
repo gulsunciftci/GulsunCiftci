@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 - 🌱 I love developing mobile apps
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: Anything is possible if we believe enough
+
+<p align="left">
+	<a href="https://github.com/gulsunciftci">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulsunciftci&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsunciftci"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
+	</a>
+</p>
+
 ## Connect with me  
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsunciftci/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gulsunciftci)
