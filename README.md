@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: Anything is possible if we believe enough
 
-### Some stats stuff
+## Some stats stuff
 <p align="center">
 	<a href="https://github.com/gulsunciftci">
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulsunciftci&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsunciftci"/>
