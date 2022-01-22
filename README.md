@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<a href="https://github.com/gulsunciftci">
-		  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=gulsunciftci&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsunciftci"/>
-		  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulsunciftci&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsunciftci"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
 	</a>
 </p>
 
