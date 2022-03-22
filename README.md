@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I love developing mobile apps
+- 🌱 I love developing Android apps
 - 💬 Ask me about anything, I am happy to help
 - ⚡ Fun fact: Anything is possible if we believe enough
 
