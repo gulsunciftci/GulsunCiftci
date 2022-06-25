@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gulsunciftci.gulsunciftci">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Gülsün+ÇİFTÇİ+🎉&center=true&size=25">
 </p>
