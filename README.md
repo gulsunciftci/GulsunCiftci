@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gulsunciftci.gulsunciftci">
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Nice+to+see+you+🎉&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Nice+to+see+you+ ♥ &center=true&size=25">
 </p>
 
 ### Hi there, I'm Gulsun <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
