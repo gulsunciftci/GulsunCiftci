@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="27" height="30"></a>
      <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="30" height="30" ></a>
-    <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://ja.wikipedia.org/wiki/Kotlin#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kotlin_Icon.svg.png" width="30" height="30" ></a>
+    <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" ></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
