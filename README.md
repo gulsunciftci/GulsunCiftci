@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
 	</a>
 </p>
-https://developer.android.com/kotlin?hl=tr
+
 ## Programming and markup languages
 
 <p>
