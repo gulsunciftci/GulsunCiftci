@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="27" height="30"></a>
      <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="30" height="30" ></a>
-    <a href="https://www.w3schools.com/sql/"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" > 
+    <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" > 
  </a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" width="40" height="40"></a>
+    <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" width="40" height="40"></a>
     <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" width="30" height="30"></a>
     <a href="https://www.python.org/"><img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" ></a>
     <a href="https://git-scm.com/" ><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"></a>
