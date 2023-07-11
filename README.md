@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about anything, I am happy to help
-- ⚡ Fun fact: Anything is possible if we believe enough
+- 💬 Ask me about **.Net and **C# language, I am happy to help
+- ⚡ Fun fact: Everything is possible if we believe enough
+- 📝 I like writing articles on [My Medium Page](https://medium.com/@gulsunciftci) 
 
 ## Some stats stuff
 <p align="center">
