@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gulsunciftci.gulsunciftci">
+<img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="280" height="230"  />
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=gulsunciftci.gulsunciftci">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;Nice+to+see+you+🧡&center=true&size=25">
 </p>
