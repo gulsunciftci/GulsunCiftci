@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-     <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://custom-icon-badges.herokuapp.com/badge/.Net Core-9C033A.svg?logo=cpp2&logoColor=white"></a>
+     <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="30" height="30" ></a>
     <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
