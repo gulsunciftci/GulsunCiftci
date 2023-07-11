@@ -37,36 +37,37 @@ Here are some ideas to get you started:
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="27" height="30"></a>
      <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="30" height="30" ></a>
-    <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" ></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://www.w3schools.com/sql/"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" > 
+ </a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" width="40" height="40"></a>
+    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" width="30" height="30"></a>
+    <a href="https://www.python.org/"><img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" ></a>
+    <a href="https://git-scm.com/" ><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"></a>
 </p>
 
 ## Databases 
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="30" height="30"></a>
+    <a href="https://www.notion.so/"><img alt="Notion" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="30" height="30"></a>
     <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
 ## Software and tools
 
 <p>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://visualstudio.microsoft.com/tr/"><img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" width="30" height="30"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"></a>
+  <a href="https://postman.com"><img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="30" height="30"></a>
+  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="30" height="30"></a>
+  <a href="https://jupyter.org/ "><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30" height="30"></a>
+  <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" width="30" height="30"></a>
 </p>
 
-## Connect with me  
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gulsunnciftci)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gulsunciftci)
-[![](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/gulsunciftci)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gulsunciftci)
-[![Mail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gulsunnciftci@gmail.com)](mailto:gulsunnciftci@gmail.com)
+## Connect with me
+
+  <a href="https://twitter.com/gulsunnciftci"><img alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/gulsunciftci"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30"></a>
+  <a href="https://medium.com/@gulsunciftci"><img alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="30" height="30"></a>
+  <a href="mailto:gulsunnciftci@gmail.com"><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"></a>
+
