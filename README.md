@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about .Net and C# language, I am happy to help
+- 💬 Ask me about .Net Core and C# language, I am happy to help
 - ⚡ Fun fact: Everything is possible if we believe enough
 - 📝 I like writing articles on [My Medium Page](https://medium.com/@gulsunciftci) 
 - 📹 I like to produce content on [My Youtube Channel](https://www.youtube.com/@gulsunciftci) 
