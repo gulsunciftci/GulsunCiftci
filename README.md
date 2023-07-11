@@ -62,6 +62,7 @@ Here are some ideas to get you started:
   <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="30" height="30"></a>
   <a href="https://jupyter.org/ "><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30" height="30"></a>
   <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" width="30" height="30"></a>
+  <a href="https://trello.com/"><img alt="Trello" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" width="30" height="30"></a>
 </p>
 
 ## Connect with me
