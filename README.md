@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-## Programming and markup languages
+## Technologies
 
 <p>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
