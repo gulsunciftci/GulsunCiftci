@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Everything is possible if we believe enough
 - 📝 I like writing articles on [My Medium Page](https://medium.com/@gulsunciftci) 
 - 📹 I like to produce content on [My Youtube Channel](https://www.youtube.com/@gulsunciftci) 
+
+## Who am I?
+
+I'm a Computer Engineer. I'm developing projects as a .Net Core Developer. I love the C# language. I'm good with data structures and algorithms. I have a lot of fun writing code 🚀
+
 ## Some stats stuff
 <p align="center">
 	<a href="https://github.com/gulsunciftci">
