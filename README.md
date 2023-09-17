@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Who am I?
 
-I'm a Computer Engineer. I'm developing projects as a .Net Core Developer. I love the C# language. I'm good with data structures and algorithms. I have a lot of fun writing code 🚀
+I'm a computer engineer. As a .Net Core Developer, I develop web API projects. I love the C# language. I'm good with data structures and algorithms. I have a lot of fun writing code 🚀
 
 ## Some stats stuff
 <p align="center">
