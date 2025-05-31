@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about .Net Core web API and C#, I'm happy to help
+- 💬 I'm Data Scientist 👩‍💻
 - ⚡ Fun fact: Everything is possible if we believe enough
 - 📝 I like writing articles on [My Medium Page](https://medium.com/@gulsunciftci) 
 - 📹 I like to produce content on [My Youtube Channel](https://www.youtube.com/@gulsunciftci) 
