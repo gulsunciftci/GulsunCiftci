@@ -37,38 +37,17 @@ I'm a computer engineer. I love the Python language. I'm good with data structur
 	</a>
 </p>
 
-## Technologies
+## 🛠 My Tech Stack
 
-<p>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="27" height="30"></a>
-     <a href="https://dotnet.microsoft.com/"><img alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="30" height="30" ></a>
-    <a href="https://developer.android.com/kotlin?hl=tr"><img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="30" height="30" > 
- </a>
-    <a href="https://www.w3schools.com/sql/"><img alt="SQL" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png" width="40" height="40"></a>
-    <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" width="30" height="30"></a>
-    <a href="https://www.python.org/"><img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" ></a>
-    <a href="https://git-scm.com/" ><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql)
+![.NET](https://img.shields.io/badge/-.NET-512bd4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)
 
-## Databases 
-
-<p>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="30" height="30"></a>
-    <a href="https://www.notion.so/"><img alt="Notion" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="30" height="30"></a>
-    <a href="https://www.postgresql.org"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"></a>
-</p>
-
-## Software and tools
-
-<p>
-    <a href="https://visualstudio.microsoft.com/tr/"><img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" width="30" height="30"></a>
-    <a href="https://code.visualstudio.com/"><img alt="Vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="30" height="30"></a>
-  <a href="https://postman.com"><img alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="30" height="30"></a>
-  <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" width="30" height="30"></a>
-  <a href="https://jupyter.org/ "><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="30" height="30"></a>
-  <a href="https://obsproject.com/"><img alt="OBS Studio" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Open_Broadcaster_Software_Logo.png" width="30" height="30"></a>
-  <a href="https://trello.com/"><img alt="Trello" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" width="30" height="30"></a>
-</p>
 
 ## Connect with me
 
