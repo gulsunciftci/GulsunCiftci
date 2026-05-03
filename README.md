@@ -27,32 +27,19 @@ Here are some ideas to get you started:
 
 ## Who am I?
 
-I'm a computer engineer. I love the Python language. I'm good with data structures and algorithms. I have a lot of fun writing code 🚀
-
-## Some stats stuff
-<p align="center">
-	<a href="https://github.com/gulsunciftci">
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulsunciftci&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="gulsunciftci"/>
-		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulsunciftci&show_icons=true&locale=en&layout=compact&langs_count=8" alt="gulsunciftci"/>
-	</a>
-</p>
-
-## 🛠 My Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-f7931e?logo=scikitlearn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql)
-![.NET](https://img.shields.io/badge/-.NET-512bd4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
-![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio)
-
+I'm a Computer Engineer. I love the Python language. 🚀
 
 ## Connect with me
 
-  <a href="https://twitter.com/gulsunnciftci"><img alt="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/gulsunciftci"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30"></a>
-  <a href="https://medium.com/@gulsunciftci"><img alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="30" height="30"></a>
-  <a href="mailto:gulsunnciftci@gmail.com"><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"></a>
+<br>
+<p align="center">
 
+<a href="https://medium.com/@gulsunciftci" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/gulsunciftci/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> &nbsp;
+
+</p> 
